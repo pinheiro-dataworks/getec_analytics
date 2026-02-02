@@ -1,4 +1,4 @@
-# GETEC ANALYTIC | Planeje certo. Gaste inteligente.
+# GETEC ANALYTICS | Planeje certo. Gaste inteligente.
 
 ## 📊 Visão Geral do Projeto
 
